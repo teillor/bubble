@@ -1,5 +1,13 @@
 [
     {
+        "name":"acabubble",
+        "han_name":"보글보글",
+        "url":"https://play.google.com/store/apps/details?id=com.teillor.acabubble",
+        "img_url":"https://lh3.googleusercontent.com/R3533H9B_EcaNy5yiOvnbn7Sa3xt5wj7cLEnUJWUspBK7O4WbCGXPnChspjLEvgD2uk=h150-rw",
+        "description":"고전 보글보글이 돌아왔습니다. 추억의 명작을 즐겨보세요!",
+        "age":"3"
+    },
+    {
         "name":"acatetris",
         "han_name":"고전 블록 퍼즐",
         "url":"https://play.google.com/store/apps/details?id=com.teillor.acatetris",
