@@ -4,34 +4,39 @@
         "han_name":"고전 블록 퍼즐",
         "url":"https://play.google.com/store/apps/details?id=com.teillor.acatetris",
         "img_url":"https://lh3.googleusercontent.com/WXD39VAhJFDfMeXGlHZinXrqkJgWOQKJZb8AhoI8-TxNPJC-Mp6C-p4mOsFT4ftQfzI=h150-rw",
-        "description":"고전 블록 퍼즐이 돌아왔습니다. 추억의 명작을 즐겨보세요!"
+        "description":"고전 블록 퍼즐이 돌아왔습니다. 추억의 명작을 즐겨보세요!",
+        "age":"3"
     },
     {
         "name":"bubbleshooter",
         "han_name":"버블슈터",
         "url":"https://play.google.com/store/apps/details?id=com.teillor.bubbleshooter",
         "img_url":"https://lh3.googleusercontent.com/9LtYcejwiNc8qpDWOa_UxYAlQ7Eg4OfYOp2O7anuIxn4LT1Ft5aO5oFGS0AlP28E5A=h150-rw",
-        "description":"고전 보글보글 슈팅 게임이 돌아왔습니다. 추억의 명작을 즐겨보세요!"
+        "description":"고전 보글보글 슈팅 게임이 돌아왔습니다. 추억의 명작을 즐겨보세요!",
+        "age":"3"
     },
     {
         "name":"acawonderboy",
         "han_name":"원더보이",
         "url":"https://play.google.com/store/apps/details?id=com.teillor.acawonderboy",
         "img_url":"https://lh3.googleusercontent.com/706fAwfaEl4MH8kyIlzqvKekUhPqXO6sd87ebG2gsp_CMjCW9R9oen49U03wVYj91c0c=h150-rw",
-        "description":"추억의 명작 원더보이가 왔습니다! 추억의 명작을 즐겨보세요!"
+        "description":"추억의 명작 원더보이가 왔습니다! 추억의 명작을 즐겨보세요!",
+        "age":"3"
     },
     {
         "name":"acabomberman",
         "han_name":"폭탄맨",
         "url":"https://play.google.com/store/apps/details?id=com.teillor.acabomberman",
         "img_url":"https://lh3.googleusercontent.com/KXzKnHdPzLYaMXUV6hCoXKTVzqf347fSOriDIYG9khC2NUaSrav7vk2xzgdZZ7Mj7w=h150-rw",
-        "description":"고전 네오 붐버맨이 돌아왔습니다. 추억의 명작을 즐겨보세요!"
+        "description":"고전 네오 붐버맨이 돌아왔습니다. 추억의 명작을 즐겨보세요!",
+        "age":"3"
     },
     {
         "name":"acagoldaxe",
         "han_name":"황금도끼",
         "url":"https://play.google.com/store/apps/details?id=com.teillor.acagoldaxe",
         "img_url":"https://lh3.googleusercontent.com/UCjJ0f0Qm1YpF4QXTz4lYWUXxRcSX7WocJBG2I04YQd01RkDg6fXDhv-3IidR3w3tQ=h150-rw",
-        "description":"추억의 명작 황금도끼가 왔습니다! 추억의 명작을 즐겨보세요!"
+        "description":"추억의 명작 황금도끼가 왔습니다! 추억의 명작을 즐겨보세요!",
+        "age":"7"
     }
 ]
