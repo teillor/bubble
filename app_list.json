@@ -46,5 +46,13 @@
         "img_url":"https://lh3.googleusercontent.com/UCjJ0f0Qm1YpF4QXTz4lYWUXxRcSX7WocJBG2I04YQd01RkDg6fXDhv-3IidR3w3tQ=h150-rw",
         "description":"추억의 명작 황금도끼가 왔습니다! 추억의 명작을 즐겨보세요!",
         "age":"7"
+    },
+    {
+        "name":"acagunbird",
+        "han_name":"건버드슈팅",
+        "url":"https://play.google.com/store/apps/details?id=com.teillor.acagunbird",
+        "img_url":"https://lh3.googleusercontent.com/LSXPiZUUfOnL7a1Smf2jNFPOX4vgGFA1q3Kwl2kFivRVCrvPliD70fzvsc-L_CyhQkI=h150-rw",
+        "description":"고전 건버드2가 돌아왔습니다. 추억의 명작을 즐겨보세요!",
+        "age":"3"
     }
 ]
