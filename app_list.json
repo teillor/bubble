@@ -70,5 +70,21 @@
         "img_url":"https://lh3.googleusercontent.com/Xaq2O9DIm1-X0aRSpLwvutNbl-wxYWyQU8YjnaH0ORT8NaT0UCMwvZHKgu6EW2r9pw=h150-rw",
         "description":"고전 천지를먹다가 돌아왔습니다. 추억의 명작을 즐겨보세요!",
         "age":"13"
+    },
+    {
+        "name":"acaddsoma",
+        "han_name":"던전앤드래곤스",
+        "url":"https://play.google.com/store/apps/details?id=com.teillor.acaddsoma",
+        "img_url":"https://lh3.googleusercontent.com/4YH4jDV_7gf4C1k6Hq_gb_cLBO_9f3M08yPV8YtvsqbmGgqR9dzsk4qIYLQMUlTSIIU=h150-rw",
+        "description":"고전 던전앤드래곤스가 돌아왔습니다. 추억의 명작을 즐겨보세요!",
+        "age":"13"
+    },
+    {
+        "name":"acakov",
+        "han_name":"삼국전기",
+        "url":"https://play.google.com/store/apps/details?id=com.teillor.acakov",
+        "img_url":"https://lh3.googleusercontent.com/5fbUNMeBCOmZ0u9OmC7ehlrC2UnTIOiN_jqhqaUpD0Pp1uQm7S9BvdA0h6w1cbuMiA=h150-rw",
+        "description":"고전 삼국전기가 돌아왔습니다. 추억의 명작을 즐겨보세요!",
+        "age":"13"
     }
 ]
