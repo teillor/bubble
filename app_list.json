@@ -102,5 +102,13 @@
         "img_url":"https://lh3.googleusercontent.com/iqdG0j23U9CMAMmbbz0aPM3xiWL7zn5Z99RsRXZoZq4mnyyn7DgBa6cuPegofKTDj8hS",
         "description":"고전 Three wonders가 돌아왔습니다. 추억의 명작을 즐겨보세요!",
         "age":"13"
+    },
+    {
+        "name":"acaknights",
+        "han_name":"나이츠오브라운드",
+        "url":"https://play.google.com/store/apps/details?id=com.teillor.acaknights",
+        "img_url":"https://lh3.googleusercontent.com/GOWX9i-2StpZxk68-LlQxgZ5NiApEcsYK8bUjihTQfiiZPw2h3vRhsgX2HGADIURkJw",
+        "description":"고전 나이츠오브라운드가 돌아왔습니다. 추억의 명작을 즐겨보세요!",
+        "age":"13"
     }
 ]
