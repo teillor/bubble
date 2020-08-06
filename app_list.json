@@ -94,5 +94,13 @@
         "img_url":"https://lh3.googleusercontent.com/-MK15_DY7wBkej1o1Tcnr8jNLysaO4LweuAA-kKJxcoyn2aUSEf8TuYveG6gM8q7BpQG",
         "description":"고전 원더보이-몬스터랜드가 돌아왔습니다. 추억의 명작을 즐겨보세요!",
         "age":"3"
+    },
+    {
+        "name":"acathreewonders",
+        "han_name":"Three Wonders",
+        "url":"https://play.google.com/store/apps/details?id=com.teillor.acathreewonders",
+        "img_url":"https://lh3.googleusercontent.com/iqdG0j23U9CMAMmbbz0aPM3xiWL7zn5Z99RsRXZoZq4mnyyn7DgBa6cuPegofKTDj8hS",
+        "description":"고전 Three wonders가 돌아왔습니다. 추억의 명작을 즐겨보세요!",
+        "age":"13"
     }
 ]
