@@ -110,5 +110,13 @@
         "img_url":"https://lh3.googleusercontent.com/GOWX9i-2StpZxk68-LlQxgZ5NiApEcsYK8bUjihTQfiiZPw2h3vRhsgX2HGADIURkJw",
         "description":"고전 나이츠오브라운드가 돌아왔습니다. 추억의 명작을 즐겨보세요!",
         "age":"13"
+    },
+    {
+        "name":"acaraiden",
+        "han_name":"라이덴",
+        "url":"https://play.google.com/store/apps/details?id=com.teillor.acaraiden",
+        "img_url":"https://lh3.googleusercontent.com/53PxRHw8m6dpY_CoiYo4qVf5e6gVBf23vqXrGy95nYAMZ2wBYnIUgGqKCJPgv9xYsrI",
+        "description":"고전 라이덴이 돌아왔습니다. 추억의 명작을 즐겨보세요!",
+        "age":"3"
     }
 ]
